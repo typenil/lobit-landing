@@ -1,29 +1,34 @@
 {
-    "title": "Creative",
-    "name": "startbootstrap-creative",
+    "title": "Crypto Analytics",
+    "name": "lobit.io",
     "version": "4.1.1",
-    "description": "Creative is a stylish one page HTML theme for Bootstrap.",
+    "description": "On-demand cryptocurrency analytics.",
     "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
+        "cryptocurrency",
+        "crypto",
+        "investment",
+        "analytics",
+        "social",
+        "media",
+        "sentiment",
+        "monitoring",
+        "analysis",
+        "alerts"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/creative",
+    "homepage": "https://www.lobit.io",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/typenil/lobit-landing/issues",
+        "email": "code@typenil.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "typenil",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "David Miller (http://davidmiller.io/)",
+        "typenil (http://typenil.com)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
+        "url": "https://github.com/typenil/lobit-landing.git"
     },
     "dependencies": {
         "bootstrap": "4.1.1",
