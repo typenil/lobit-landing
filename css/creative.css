@@ -214,7 +214,7 @@ header.masthead p {
   }
 }
 
-.service-box {
+.feature-box {
   max-width: 400px;
 }
 
@@ -223,6 +223,13 @@ header.masthead p {
   display: block;
   max-width: 650px;
   margin: 0 auto;
+  text-align: center;
+  padding: 20px 0px;
+}
+
+.portfolio-box .crypto-icon {
+  width: 15rem !important;
+  height: 15rem !important;
 }
 
 .portfolio-box .portfolio-box-caption {
@@ -262,6 +269,11 @@ header.masthead p {
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
   font-size: 18px;
+}
+
+.portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name .pct-gain {
+  color: #6eff6e;
+  font-weight: 700;
 }
 
 .portfolio-box:hover .portfolio-box-caption {

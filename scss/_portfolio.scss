@@ -4,6 +4,12 @@
   display: block;
   max-width: 650px;
   margin: 0 auto;
+  text-align: center;
+  padding: 20px 0px;
+  .crypto-icon {
+    width: 15rem !important;
+    height: 15rem !important;
+  }
   .portfolio-box-caption {
     position: absolute;
     bottom: 0;
@@ -33,6 +39,10 @@
       }
       .project-name {
         font-size: 18px;
+        .pct-gain {
+          color: rgb(110, 255, 110);
+          font-weight: 700;
+        }
       }
     }
   }
